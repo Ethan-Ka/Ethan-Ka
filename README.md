@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I'm a pretty good dev who does things sometimes
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DankBoi293&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DankBoi293&hide_border=true&background=0D1117&currStreakNum=6381AF&dates=384963&sideNums=6381AF&currStreakLabel=6381AF&sideLabels=6381AF)](https://git.io/streak-stats)
+
+# Here's some things I find useful that you may as well!
