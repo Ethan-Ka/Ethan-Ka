@@ -17,17 +17,23 @@ Here are some ideas to get you started:
 
 I'm a pretty good dev who does things sometimes. I'm in high school and planning to become a software engineer.
 
-======
+
+
 ### Languages
-
-hello
-
-======
-
+<div>
+<img src="icons/python.svg" width="30px">
+<img src="icons/discordpy.svg" width="30px">
+<img src="icons/html.svg" width="30px">
+<img src="icons/css.svg" width="30px">
+<img src="icons/javascript.svg" width="30px">
+</div>
+  
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=DankBoi293&hide_border=true&background=0D1117&currStreakNum=6381AF&dates=384963&sideNums=6381AF&currStreakLabel=6381AF&sideLabels=6381AF)](https://git.io/streak-stats)
 ======
 # Useful Tools
 Here's some things I find useful that you may as well!
+**Want to skip all this? Click [here](#thanks-for-visiting)**
 
 ## [Microsoft Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/)
 One of the greatest features of Microsoft Powertoys is the color pick tool. I use it a lot for grabbing background colors.
@@ -49,4 +55,6 @@ This GitHub Repo has a list of most of the public apis out there! Great for if y
 ## [smooth-shadow](https://shadows.brumm.af/)
 
 ## [css-cursor-demonstrator](https://cssgenerator.org/css-cursor-demonstrator-and-generator.html)
-======
+
+
+# Thanks for visiting!
