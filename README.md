@@ -34,7 +34,7 @@ I'm a pretty good dev who does things sometimes. I'm in high school and planning
 # Useful Tools
 Here's some things I find useful that you may as well!
 
-**Want to skip all this? Click [here](#thanks-for-visiting)**
+#### **Want to skip all this? Click [here](#thanks-for-visiting)**
 
 ## [Microsoft Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/)
 One of the greatest features of Microsoft Powertoys is the color pick tool. I use it a lot for grabbing background colors.
