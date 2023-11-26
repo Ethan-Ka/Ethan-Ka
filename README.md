@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I'm a dev who does things sometimes. 
 
+**Important:** For right now, this account will be inactive. I will come back!
 
 ### Languages
 <div>
