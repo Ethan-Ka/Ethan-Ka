@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a pretty good dev who does things sometimes. I'm in high school and planning to become a software engineer.
-
+I'm a dev who does things sometimes. 
 
 
 ### Languages
