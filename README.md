@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 
 [![Dark-Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Ka&layout=compact&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=DankBoi293&hide_border=true&background=0D1117&currStreakNum=6381AF&dates=384963&sideNums=6381AF&currStreakLabel=6381AF&sideLabels=6381AF)](https://git.io/streak-stats)
