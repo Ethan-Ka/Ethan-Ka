@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 ### Languages
 <div>
 <img src="icons/python.svg" width="30px">
-<img src="icons/discordpy.svg" width="30px">
 <img src="icons/html.svg" width="30px">
 <img src="icons/css.svg" width="30px">
 <img src="icons/javascript.svg" width="30px">
 </div>
+
+
+
 
 [![Dark-Card](https://github-readme-stats.vercel.app/api?username=Ethan-Ka&count_private=true&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
