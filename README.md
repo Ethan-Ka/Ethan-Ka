@@ -2,7 +2,7 @@
 
 # Projects
 
-[<img src="https://raw.githubusercontent.com/Ethan-Ka/Pitwall/refs/heads/main/pitwall/public/branding/pitwall-wordmark.svg" alt="Pitwall" width="520" />](https://github.com/Ethan-Ka/Pitwall)
+[<img src="https://raw.githubusercontent.com/Ethan-Ka/Pitwall/refs/heads/main/pitwall/public/branding/pitwall-wordmark.svg" alt="Pitwall" width="210" />](https://github.com/Ethan-Ka/Pitwall)
 
 [Business Discovery Scoring Tool](https://github.com/Ethan-Ka/Business-Discovery-Scoring-Tool)
 
