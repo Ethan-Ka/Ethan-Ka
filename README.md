@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Ethan-Ka/Pitwall/refs/heads/main/pitwall/public/branding/pitwall-wordmark.svg" alt="Pitwall" width="210" />](https://github.com/Ethan-Ka/Pitwall)
 
-<a href="https://github.com/Ethan-Ka/Domine"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethan-Ka/Domine/refs/heads/main/docs/assets/header-dark.svg"><img src="https://raw.githubusercontent.com/Ethan-Ka/Domine/refs/heads/main/docs/assets/header-light.svg" alt="Domine" width="420" /></picture></a>
+<a href="https://ethan-ka.github.io/Domine/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethan-Ka/Domine/refs/heads/main/docs/assets/header-dark.svg"><img src="https://raw.githubusercontent.com/Ethan-Ka/Domine/refs/heads/main/docs/assets/header-light.svg" alt="Domine" width="420" /></picture></a>
 
 [Business Discovery Scoring Tool](https://github.com/Ethan-Ka/Business-Discovery-Scoring-Tool)
 
